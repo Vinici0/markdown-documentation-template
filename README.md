@@ -1,4 +1,4 @@
-# Pandoc document template
+# Pandoc document template 
 
 ## Description
 
